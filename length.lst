@@ -1,0 +1,9 @@
+millimeter;mm;a / 1000
+centimeter;cm;a / 100
+meter;a;1
+kilometer;km;a * 1000
+inch;in;b / 36
+foot;ft;b / 3
+yard;b;0.9144
+mile;mi;b * 1760
+nautical mile;nmi;a * 1852

@@ -1,0 +1,6 @@
+gram;a;1
+pound (lb);b;453.59237
+milligram;mg;a / 6000
+kilogram;kg;a * 1000
+ton;t;a * 1000000
+ounce (oz);oz;b / 16
